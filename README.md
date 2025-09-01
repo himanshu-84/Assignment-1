@@ -1,13 +1,13 @@
 # Assignment-1
-Task1
-Enter first number: "))
-b = int(input("Enter second number: "))
-print("ADDITION =", a + b)
-print("SUBTRACTION =", a - b)
-print("MULTIPLICATION =", a * b)
-print("DIVISION =", a / b)
 
-Task2
-a = input("Enter your first name: ")
-b = input("Enter your last name: ")
-print("Hello " + a + " " + b +" " + "Welcome to Python Programming")
+This repository contains two simple Python programs.
+
+## Files
+- **task1.py** – A basic calculator that performs addition, subtraction, multiplication, and division of two numbers.
+- **task2.py** – A greeting program that asks for your first and last name, then prints a welcome message.
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/himanshu-84/Assignment-1.git
+   cd Assignment-1
